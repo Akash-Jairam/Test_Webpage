@@ -1,0 +1,42 @@
+.cchange {
+		background-color:yellow;
+		padding:25px;
+	}
+
+	.backchange{
+		background-color:blue;
+		padding: 25px;
+	}
+
+	body{
+		font-family: 'Oswald', sans-serif;
+		font-size: 20px;
+		padding:0;
+		margin:0;
+	}
+
+	h1{
+		background-color:#DD0A19;
+		padding:0;
+		margin:0;
+		text-align:center;
+	}
+
+	p{
+		padding:0;
+		margin:0;
+	}
+
+	a{
+		text-decoration:none;
+		font-weight:bold;
+	}
+
+	a:hover{
+		text-decoration:underline;
+		color:green;
+	}
+
+	#projects{
+		text-decoration:underline;
+	}
